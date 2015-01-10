@@ -25,7 +25,7 @@ entertainment.
 
 ### Books and Other Training Materials
 
-Feel free to order whatever books you’d like, as long as they are
+Feel free to order whatever books you'd like, as long as they are
 directly related to the work performed by thoughtbot.
 
 ### Subscription services
@@ -33,7 +33,7 @@ directly related to the work performed by thoughtbot.
 If you want to buy a multi-person license to access content or a service – first, take a deep breath. You're on the road to content nirvana. Then:
 
 * Get permission from your manager.
-* Post a message to R&D and ask who’s interested in participating with you.
+* Post a message to the [Everyone Basecamp project](https://basecamp.com/1719045/projects/4290451) and ask who's interested in participating with you.
 * When you know how many, buy the appropriate license.
 
 If we need to associate the account with an owner/buyer/licensee, use purchasing@thoughtbot.com.
@@ -52,7 +52,7 @@ When you use your own vehicle and your own gas for work purposes, you will be re
 
 Mileage for a 2-week pay period should be submitted to Anna on the last day of the pay period (the Friday before you get you paid.)
 
-Alternatively, you can purchase gas on your tb card for work travel. You will not receive a mileage reimbursement if you purchase gas on your thoughtbot card.
+Alternatively, you can purchase gas on your thoughtbot card for work travel. You will not receive a mileage reimbursement if you purchase gas on your thoughtbot card.
 
 ## Reimbursements for Out-of-Pocket Expenses
 
